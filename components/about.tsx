@@ -28,7 +28,7 @@ export default function About() {
             <div className="about-image-container">
               <Image
                 src="https://res.cloudinary.com/dqobwse9q/image/upload/v1762291403/02_B_mevzoh.avif"
-                alt="Sapphire Madani Purwokerto"
+                alt="Sapphire Riverside"
                 width={600}
                 height={450}
                 className="about-image"
@@ -98,7 +98,7 @@ export default function About() {
               <div className="modal-image">
                 <Image
                   src="https://res.cloudinary.com/dqobwse9q/image/upload/v1762291401/04_A_s0h6v3.avif"
-                  alt="Sapphire Madani Purwokerto"
+                  alt="Sapphire Riverside"
                   width={700}
                   height={400}
                   style={{ objectFit: 'cover', width: '100%', height: 'auto' }}
