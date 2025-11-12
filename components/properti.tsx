@@ -1016,8 +1016,8 @@ const properties = [
                       </div>
                     </div>
 
-                    <h3 className="modal-subtitle">Harga</h3>
-                    <div className="modal-price">Rp {selectedProperty.price}</div>
+                    {/*<h3 className="modal-subtitle">Harga</h3>
+                    <div className="modal-price">Rp {selectedProperty.price}</div>*/}
 
                     <div className="modal-cta">
                       <Link
