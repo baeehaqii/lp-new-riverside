@@ -17,9 +17,9 @@ export default function Testimonials() {
     const testimonials: Testimonial[] = [
         {
             id: 1,
-            name: "Adelaia Putri",
+            name: "Adelia Putri",
             location: "",
-            image: "https://res.cloudinary.com/dqobwse9q/image/upload/v1755435664/Screenshot_2025-08-17_at_19-59-13_Sapphire_Griya_Modern_Official_Perumahan_Tegal_Slawi_Brebes_sapphiregriyamodern_Instagram_photos_and_videos_t4hycn.png",
+            image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764488271/gambar-6_ntxuso.avif",
             rating: 5,
             text: "Lokasi yang sangat cocok untuk bangun rukost, pertama kali ceklok langsung cocok, sangat dekat dengan area kuliner.",
         },
@@ -27,7 +27,7 @@ export default function Testimonials() {
             id: 2,
             name: "Muhammad Imam",
             location: "",
-            image: "https://res.cloudinary.com/dqobwse9q/image/upload/v1755435663/Screenshot_2025-08-17_at_20-00-42_Sapphire_Griya_Modern_Official_Perumahan_Tegal_Slawi_Brebes_sapphiregriyamodern_Instagram_photos_and_videos_ybu2pd.png",
+            image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764488270/gambar-2_tpnhat.avif",
             rating: 5,
             text: "Akses full ke tempat tempat populer di Purwokerto khususnya kampus untuk anak saya, mantap lokasinya dan fasilitasnya.",
         },
