@@ -97,7 +97,7 @@ export default function Footer() {
                             </button>
                         </div>
                         <p className="footer-description">
-                            Dengan mengisi email, Anda setuju untuk menerima informasi dan penawaran dari Sapphire Residence Sumbang.
+                            Dengan mengisi email, Anda setuju untuk menerima informasi dan penawaran dari Sapphire Riverside.
                         </p>
                     </div> */}
                 </div>

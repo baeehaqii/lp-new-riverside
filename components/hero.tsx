@@ -17,18 +17,18 @@ export default function Hero() {
 
   const heroSlides = [
     {
-      image: "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881165/01_Gate_2_uuapsc.jpg",
+      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1754881165/01_Gate_2_uuapsc.jpg",
       title: "Your Future Prosperity",
       description:
         "Hunian dan rukost modern di Purwokerto Utara, cocok untuk tinggal dan investasi.",
     },
     {
-      image: "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881166/01_Lebar_7_Standar_2_l6ldys.jpg",
+      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1754881166/01_Lebar_7_Standar_2_l6ldys.jpg",
       title: "Seperti Tinggal di Smart City",
       description: "Lokasi strategis dengan fasilitas modern di sekitar Anda.",
     },
     {
-      image: "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881167/02_15_-_Photo_zhzbbe.jpg",
+      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1754881167/02_15_-_Photo_zhzbbe.jpg",
       title: "Lokasi Tepat, Hidup Lebih Cepat",
       description: "Hanya 3 menit dari Unsoed, dekat pusat bisnis dan gaya hidup kota.",
     },
