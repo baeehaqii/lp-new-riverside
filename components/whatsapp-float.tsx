@@ -11,7 +11,7 @@ declare global {
 export default function WhatsAppFloat() {
   const handleClick = () => {
     const nomorWhatsApp = "6281127010001";
-    const pesan = "Halo, saya tertarik dengan properti Sapphire Riverside Purwokerto";
+    const pesan = "Halo kak, saya dapat informasi dari Facebook, boleh minta tolong informasi selengkapnya tentang perumahan Sapphire Riverside Purwokerto";
 
     // Track Facebook Pixel AddToCart event
     if (typeof window !== 'undefined' && window.fbq) {

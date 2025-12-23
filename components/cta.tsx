@@ -4,7 +4,7 @@ import { Phone, ClipboardList, Percent } from "lucide-react"
 import Link from "next/link"
 
 const nomorWhatsApp = "6281127010001";
-const pesan = "Halo, saya tertarik dengan properti Sapphire Riverside Purwokerto";
+const pesan = "Halo kak, saya dapat informasi dari Facebook, boleh minta tolong informasi selengkapnya tentang perumahan Sapphire Riverside Purwokerto";
 const linkWhatsApp = `https://wa.me/${nomorWhatsApp}?text=${encodeURIComponent(pesan)}`;
 
 declare global {
