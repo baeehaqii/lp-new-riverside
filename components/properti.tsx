@@ -345,10 +345,10 @@ const properties = [
   {
     id: 1,
     images: [
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881167/02_15_-_Photo_zhzbbe.jpg",
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881166/02_14_-_Photo_e9thuw.jpg",
+      "/denah/wallpaper1.avif",
+      "/denah/wallpaper2.avif",
     ],
-    floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762283990/Tipe_69_rwuj8m.avif",
+    floorPlan: "/denah/tipe69.avif",
     name: "Tipe 69",
     price: "6XX.XXX.XXX",
     bedrooms: 3,
@@ -360,10 +360,10 @@ const properties = [
   {
     id: 2,
     images: [
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881167/02_15_-_Photo_zhzbbe.jpg",
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881166/02_14_-_Photo_e9thuw.jpg",
+      "/denah/wallpaper1.avif",
+      "/denah/wallpaper2.avif",
     ],
-    floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762283990/Tipe_57_a8uo71.avif",
+    floorPlan: "/denah/tipe57.avif",
     name: "Tipe 57",
     price: "5XX.XXX.XXX",
     bedrooms: 3,
@@ -375,10 +375,10 @@ const properties = [
   {
     id: 3,
     images: [
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881167/02_15_-_Photo_zhzbbe.jpg",
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881166/02_14_-_Photo_e9thuw.jpg",
+      "/denah/wallpaper1.avif",
+      "/denah/wallpaper2.avif",
     ],
-    floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762284018/Tipe_23_c89acv.avif",
+    floorPlan: "/denah/tipe23.avif",
     name: "Tipe 23",
     price: "2XX.XXX.XXX",
     bedrooms: 1,
@@ -390,10 +390,10 @@ const properties = [
   {
     id: 4,
     images: [
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881167/02_15_-_Photo_zhzbbe.jpg",
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881166/02_14_-_Photo_e9thuw.jpg",
+      "/denah/wallpaper1.avif",
+      "/denah/wallpaper2.avif",
     ],
-    floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762284018/Tipe_74_tneora.avif",
+    floorPlan: "/denah/tipe74.avif",
     name: "Tipe 74",
     price: "7XX.XXX.XXX",
     bedrooms: 3,
@@ -405,10 +405,10 @@ const properties = [
   {
     id: 5,
     images: [
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881167/02_15_-_Photo_zhzbbe.jpg",
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881166/02_14_-_Photo_e9thuw.jpg",
+      "/denah/wallpaper1.avif",
+      "/denah/wallpaper2.avif",
     ],
-    floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762283989/Tipe_36_phc9qz.avif",
+    floorPlan: "/denah/tipe36.avif",
     name: "Tipe 36",
     price: "3XX.XXX.XXX",
     bedrooms: 1,
@@ -420,10 +420,10 @@ const properties = [
   {
     id: 6,
     images: [
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881167/02_15_-_Photo_zhzbbe.jpg",
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881166/02_14_-_Photo_e9thuw.jpg",
+      "/denah/wallpaper1.avif",
+      "/denah/wallpaper2.avif",
     ],
-    floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762283989/Tipe_35_tiy9rq.avif",
+    floorPlan: "/denah/tipe35.avif",
     name: "Tipe 35",
     price: "3XX.XXX.XXX",
     bedrooms: 1,
@@ -435,10 +435,10 @@ const properties = [
   {
     id: 7,
     images: [
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881167/02_15_-_Photo_zhzbbe.jpg",
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881166/02_14_-_Photo_e9thuw.jpg",
+      "/denah/wallpaper1.avif",
+      "/denah/wallpaper2.avif",
     ],
-    floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762283988/Tipe_56_kl0lru.avif",
+    floorPlan: "/denah/tipe56.avif",
     name: "Tipe 56",
     price: "5XX.XXX.XXX",
     bedrooms: 3,
@@ -450,10 +450,10 @@ const properties = [
   {
     id: 8,
     images: [
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881167/02_15_-_Photo_zhzbbe.jpg",
-      "https://res.cloudinary.com/dqobwse9q/image/upload/v1754881166/02_14_-_Photo_e9thuw.jpg",
+      "/denah/wallpaper1.avif",
+      "/denah/wallpaper2.avif",
     ],
-    floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762283989/Tipe_59_yecxdt.avif",
+    floorPlan: "/denah/tipe59.avif",
     name: "Tipe 59",
     price: "5XX.XXX.XXX",
     bedrooms: 3,
@@ -465,7 +465,7 @@ const properties = [
 ];
   const siteplan = {
     id: "siteplan-1",
-    image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_1000,h_700,c_fill,f_auto,q_auto:eco/v1755593854/Siteplane_Riverside_oikohe.png",
+    image: "/siteplan/siteplan.avif",
     name: "Siteplan Sapphire Riverside",
     description:
       "Masterplan perumahan Sapphire Riverside yang menampilkan layout, jalan, ruang terbuka hijau, dan fasilitas umum.",
@@ -804,7 +804,7 @@ const properties = [
           <div className="specifications-container">
             <div className="specifications-image">
               <Image
-                src="https://res.cloudinary.com/dqobwse9q/image/upload/w_500,h_350,c_fill,f_auto,q_auto:eco/v1754637084/TYPE_85_1_i718cl.png"
+                src="/hero/hero1.avif"
                 alt="Spesifikasi Rumah"
                 width={600}
                 height={800}

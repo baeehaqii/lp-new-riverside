@@ -1,7 +1,6 @@
 "use client"
 
 import Image from "next/image"
-import Link from "next/link"
 import { useState } from "react" 
 import { X } from "lucide-react" 
 
@@ -27,7 +26,7 @@ export default function About() {
             {/* Container gambar */}
             <div className="about-image-container">
               <Image
-                src="https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764387102/Enscape_2025-09-25-18-46-48_VIEW_1_ym8lgx.avif"
+                src="/hero/hero1.avif"
                 alt="Sapphire Riverside"
                 width={600}
                 height={450}
@@ -97,7 +96,7 @@ export default function About() {
               <h2 className="modal-title">Sapphire Riverside</h2>
               <div className="modal-image">
                 <Image
-                  src="https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764387102/Enscape_2025-09-25-18-46-48_VIEW_1_ym8lgx.avif"
+                  src="/gallery/gallery1.avif"
                   alt="Sapphire Riverside"
                   width={700}
                   height={400}

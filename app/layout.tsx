@@ -9,9 +9,9 @@ export const metadata: Metadata = {
   title: "Sapphire Riverside",
   description: "Temukan properti impian Anda bersama Sapphire Riverside",
   icons: {
-    icon: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761065068/Logo_pogacr.jpg",
-    shortcut: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761065068/Logo_pogacr.jpg",
-    apple: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761065068/Logo_pogacr.jpg",
+    icon: "/icon/icon.avif",
+    shortcut: "/icon/icon.avif",
+    apple: "/icon/icon.avif",
   },
   keywords: [
     "Sapphire Riverside",
@@ -47,7 +47,6 @@ export default function RootLayout({
         `}} />
 
         {/* Preconnect to external domains for faster resource loading */}
-        <link rel="preconnect" href="https://res.cloudinary.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://connect.facebook.net" />
         <link rel="preconnect" href="https://www.facebook.com" />
@@ -55,7 +54,6 @@ export default function RootLayout({
         <link rel="preconnect" href="https://www.youtube.com" />
 
         {/* DNS Prefetch for additional external domains */}
-        <link rel="dns-prefetch" href="https://res.cloudinary.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
 
         {/* Async CSS Loading Script */}

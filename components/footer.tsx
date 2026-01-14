@@ -105,9 +105,9 @@ export default function Footer() {
                 <div className="footer-bottom">
                     <div className="footer-logo">
                         <Image
-                            src="https://res.cloudinary.com/dqobwse9q/image/upload/Logo_Sapphire_Griya_cckauk.avif"
+                            src="/logo/sapphire_graha.avif"
                             alt="Sapphire Riverside Logo"
-                            width={150}
+                            width={80}
                             height={40}
                             className="footer-logo-image"
                         />

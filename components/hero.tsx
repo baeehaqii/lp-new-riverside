@@ -17,18 +17,18 @@ export default function Hero() {
 
   const heroSlides = [
     {
-      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1754881165/01_Gate_2_uuapsc.jpg",
+      image:"/hero/hero1.avif",
       title: "Your Future Prosperity",
       description:
         "Hunian dan rukost modern di Purwokerto Utara, cocok untuk tinggal dan investasi.",
     },
     {
-      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1754881166/01_Lebar_7_Standar_2_l6ldys.jpg",
-      title: "Seperti Tinggal di Smart City",
+      image: "/hero/hero2.avif",
+      title: "Seperti Tinggal di Smart City", 
       description: "Lokasi strategis dengan fasilitas modern di sekitar Anda.",
     },
     {
-      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1754881167/02_15_-_Photo_zhzbbe.jpg",
+      image: "/hero/hero3.avif",
       title: "Lokasi Tepat, Hidup Lebih Cepat",
       description: "Hanya 3 menit dari Unsoed, dekat pusat bisnis dan gaya hidup kota.",
     },
@@ -163,12 +163,12 @@ export default function Hero() {
                   <Image
                     src={
                       i === 2
-                        ? "https://res.cloudinary.com/dqobwse9q/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1754637078/WhatsApp_Image_2025-06-19_at_11.00.07_bvpgud.jpg"
+                        ? "/avatar/avatar1.avif"
                         : i === 3
-                          ? "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1749059575/image_10_mvh73f.png"
+                          ? "/avatar/avatar2.avif"
                           : i === 4
-                            ? "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1747762124/freepik__the-style-is-candid-image-photography-with-natural__77739_r5rogr.jpg"
-                            : "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1749058806/image_8_meklxg.png"
+                            ? "/avatar/avatar3.avif"
+                            : "/avatar/avatar4.avif"
                     }
                     alt={`Avatar ${i}`}
                     width={40}
